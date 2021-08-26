@@ -9,4 +9,4 @@ Cracker Hash Python2 : MD5, SHA1, &amp;...
 -------
 4 - python2 HashCracker.py
 -------
-Coded By Alireza | "Cdr, C0d3r, kCoder"
+Coded By Alireza | C0d3r
