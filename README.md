@@ -1,5 +1,4 @@
 # Hasheeng
--------
 HashCracker With Python2
 -------
 ````
