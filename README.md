@@ -1,5 +1,5 @@
 # Hasheeng
-Cracker Hash Python2 : MD5, SHA1, &amp;... 
+` HashCracker With Python2 `
 -------
 ````
 1 - pip install colorama
